@@ -1,0 +1,14 @@
+c:\users\adrian\documents\visual studio 2015\WPF\TicTacoToeGame\TicTacoToeGame\bin\Debug\TicTacoToeGame.exe.config
+C:\Users\Adrian\documents\visual studio 2015\WPF\TicTacoToeGame\TicTacoToeGame\bin\Debug\TicTacoToeGame.exe
+C:\Users\Adrian\documents\visual studio 2015\WPF\TicTacoToeGame\TicTacoToeGame\bin\Debug\TicTacoToeGame.pdb
+C:\Users\Adrian\documents\visual studio 2015\WPF\TicTacoToeGame\TicTacoToeGame\obj\Debug\TicTacoToeGame.csprojResolveAssemblyReference.cache
+C:\Users\Adrian\documents\visual studio 2015\WPF\TicTacoToeGame\TicTacoToeGame\obj\Debug\MainWindow.g.cs
+C:\Users\Adrian\documents\visual studio 2015\WPF\TicTacoToeGame\TicTacoToeGame\obj\Debug\App.g.cs
+C:\Users\Adrian\documents\visual studio 2015\WPF\TicTacoToeGame\TicTacoToeGame\obj\Debug\TicTacoToeGame_MarkupCompile.cache
+C:\Users\Adrian\documents\visual studio 2015\WPF\TicTacoToeGame\TicTacoToeGame\obj\Debug\TicTacoToeGame_MarkupCompile.lref
+C:\Users\Adrian\documents\visual studio 2015\WPF\TicTacoToeGame\TicTacoToeGame\obj\Debug\MainWindow.baml
+C:\Users\Adrian\documents\visual studio 2015\WPF\TicTacoToeGame\TicTacoToeGame\obj\Debug\TicTacoToeGame.g.resources
+C:\Users\Adrian\documents\visual studio 2015\WPF\TicTacoToeGame\TicTacoToeGame\obj\Debug\TicTacoToeGame.Properties.Resources.resources
+C:\Users\Adrian\documents\visual studio 2015\WPF\TicTacoToeGame\TicTacoToeGame\obj\Debug\TicTacoToeGame.csproj.GenerateResource.Cache
+C:\Users\Adrian\documents\visual studio 2015\WPF\TicTacoToeGame\TicTacoToeGame\obj\Debug\TicTacoToeGame.exe
+C:\Users\Adrian\documents\visual studio 2015\WPF\TicTacoToeGame\TicTacoToeGame\obj\Debug\TicTacoToeGame.pdb
